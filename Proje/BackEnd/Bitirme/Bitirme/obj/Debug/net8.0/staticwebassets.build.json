@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "dEYlv3jowJCIvgn1EuW8MQBL14OCIiDtAbDf89vN6KY=",
+  "Source": "Bitirme",
+  "BasePath": "_content/Bitirme",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bitirme\\wwwroot",
+      "Source": "Bitirme",
+      "ContentRoot": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\",
+      "BasePath": "_content/Bitirme",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\hafta1_2.pdf",
+      "SourceId": "Bitirme",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\",
+      "BasePath": "_content/Bitirme",
+      "RelativePath": "media/hafta1_2.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\hafta1_2.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\hafta4_part1.pdf",
+      "SourceId": "Bitirme",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\",
+      "BasePath": "_content/Bitirme",
+      "RelativePath": "media/hafta4_part1.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\hafta4_part1.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\pngtree-cute-adorable-baby-animals-vector-png-image_4011181.jpg",
+      "SourceId": "Bitirme",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\",
+      "BasePath": "_content/Bitirme",
+      "RelativePath": "media/pngtree-cute-adorable-baby-animals-vector-png-image_4011181.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\pngtree-cute-adorable-baby-animals-vector-png-image_4011181.jpg"
+    }
+  ]
+}

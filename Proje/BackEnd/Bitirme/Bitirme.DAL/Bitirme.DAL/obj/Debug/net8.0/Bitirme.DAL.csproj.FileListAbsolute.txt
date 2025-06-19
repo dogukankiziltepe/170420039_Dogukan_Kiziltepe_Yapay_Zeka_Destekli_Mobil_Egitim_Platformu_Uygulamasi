@@ -1,0 +1,15 @@
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\bin\Debug\net8.0\Bitirme.DAL.deps.json
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\bin\Debug\net8.0\Bitirme.DAL.runtimeconfig.json
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\bin\Debug\net8.0\Bitirme.DAL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\bin\Debug\net8.0\Bitirme.DAL.pdb
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.csproj.AssemblyReference.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.AssemblyInfoInputs.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.AssemblyInfo.cs
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.sourcelink.json
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\refint\Bitirme.DAL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.pdb
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\Bitirme.DAL.genruntimeconfig.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.DAL\Bitirme.DAL\obj\Debug\net8.0\ref\Bitirme.DAL.dll

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\hafta1_2.pdf",
+      "PackagePath": "staticwebassets\\media\\hafta1_2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\hafta4_part1.pdf",
+      "PackagePath": "staticwebassets\\media\\hafta4_part1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Doğukan\\Documents\\GitHub\\Bitirme\\Bitirme\\wwwroot\\media\\pngtree-cute-adorable-baby-animals-vector-png-image_4011181.jpg",
+      "PackagePath": "staticwebassets\\media\\pngtree-cute-adorable-baby-animals-vector-png-image_4011181.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bitirme.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bitirme.props",
+      "PackagePath": "build\\Bitirme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bitirme.props",
+      "PackagePath": "buildMultiTargeting\\Bitirme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bitirme.props",
+      "PackagePath": "buildTransitive\\Bitirme.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

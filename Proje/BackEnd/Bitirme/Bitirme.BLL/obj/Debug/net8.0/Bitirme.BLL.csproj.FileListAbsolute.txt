@@ -1,0 +1,16 @@
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\bin\Debug\net8.0\Bitirme.BLL.deps.json
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\bin\Debug\net8.0\Bitirme.BLL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\bin\Debug\net8.0\Bitirme.BLL.pdb
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\bin\Debug\net8.0\Bitirme.DAL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\bin\Debug\net8.0\Bitirme.DAL.pdb
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.csproj.AssemblyReference.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.AssemblyInfoInputs.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.AssemblyInfo.cs
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.sourcelink.json
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme..D14AF933.Up2Date
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\refint\Bitirme.BLL.dll
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\Bitirme.BLL.pdb
+C:\Users\Doğukan\Documents\GitHub\Bitirme\Bitirme.BLL\obj\Debug\net8.0\ref\Bitirme.BLL.dll

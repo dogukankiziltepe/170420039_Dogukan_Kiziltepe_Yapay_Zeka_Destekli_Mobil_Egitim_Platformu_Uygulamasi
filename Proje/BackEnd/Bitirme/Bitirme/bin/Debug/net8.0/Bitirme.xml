@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bitirme</name>
+    </assembly>
+    <members>
+        <member name="M:Bitirme.Controllers.AccountController.ForgotPasswordMail(Bitirme.Controllers.ForgotPasswordMail)">
+            <summary>
+            Forgot password mailini atmaya yarayan endpoint.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bitirme.Controllers.AccountController.ForgotPasswordCodeCheck(Bitirme.Controllers.CodeCheckModel)">
+            <summary>
+            Forgot password code unu kontrol etmeye yarayan endpoint
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bitirme.Controllers.AccountController.ForgotPasswordChange(Bitirme.Controllers.ForgotPasswordChangeModel)">
+            <summary>
+            Forgot passwordun en son adımı olarak şifre değiştirme endpointi.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bitirme.Controllers.ClassController.GetClassesByStudentId(System.String,System.String)">
+            <summary>
+            studentId ve courseId ile Classı getirme
+            </summary>
+            <param name="studentId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Bitirme.Controllers.ClassMediaController.UploadFile(Bitirme.Controllers.ClassMediaController.MediaDTO)">
+            <summary>
+            File Yükleme Methodu
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Bitirme.Controllers.CourseController.GetAll" -->
+        <member name="M:Bitirme.Controllers.LessonController.CompletedLesson(System.String,System.String)">
+            <summary>
+            Lesson complete edildiğinde kaydedilmesi için gerekli method
+            </summary>
+            <param name="studentId"></param>
+            <param name="lessonId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
