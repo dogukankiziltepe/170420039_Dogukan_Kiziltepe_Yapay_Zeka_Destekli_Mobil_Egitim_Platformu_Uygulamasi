@@ -1,0 +1,1 @@
+# 170420039_Dogukan_Kiziltepe_Yapay_Zeka_Destekli_Mobil_Egitim_Platformu_Uygulamasi
